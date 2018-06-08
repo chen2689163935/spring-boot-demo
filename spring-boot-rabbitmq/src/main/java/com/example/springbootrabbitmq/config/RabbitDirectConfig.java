@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Configuration;
  * @create 2017-10-25 0:09
  **/
 @Configuration
-public class RabbitDirectConfig {
+public class RabbitDirectConfig  {
 
     @Bean
     public Queue helloQueue() {
