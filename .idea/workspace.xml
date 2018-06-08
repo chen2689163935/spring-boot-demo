@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fb464c7-41cb-4d49-afe0-5a1ed4f23831" name="Default" comment="" />
+    <list default="true" id="2fb464c7-41cb-4d49-afe0-5a1ed4f23831" name="Default" comment="提交到本地仓库">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring-boot-demo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../spring-boot-demo/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/../spring-boot-demo/out/" />
     <ignored path="$PROJECT_DIR$/../spring-boot-demo/target/" />
     <ignored path="$PROJECT_DIR$/../spring-boot-demo/spring-boot-rabbitmq/target/" />
@@ -19,8 +21,8 @@
       <file leaf-file-name="ws.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../spring-boot-demo/spring-boot-websockets/src/main/resources/templates/ws.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+            <state relative-caret-position="432">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -481,8 +483,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528355457633</updated>
-      <workItem from="1528355461206" duration="24727000" />
+      <workItem from="1528355461206" duration="25909000" />
     </task>
+    <task id="LOCAL-00001" summary="提交到本地仓库">
+      <created>1528447730118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528447730118</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -518,7 +528,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24727000" />
+    <option name="totallyTimeSpent" value="25909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -554,6 +564,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交到本地仓库" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交到本地仓库" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -957,8 +971,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../spring-boot-demo/spring-boot-websockets/src/main/resources/templates/ws.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+        <state relative-caret-position="432">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
